@@ -12,7 +12,7 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón "Adici
 <li>Visualizar la lista: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.</li>
 <li>Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.</li>
 
-<video src = https://github.com/user-attachments/assets/7c9a4fd2-61db-493f-8b83-5df3835e9499></video>
+[Una imagen aqui] <video src = https://github.com/user-attachments/assets/7c9a4fd2-61db-493f-8b83-5df3835e9499></video>
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
